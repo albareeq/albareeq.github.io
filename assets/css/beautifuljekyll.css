@@ -3,6 +3,7 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
 
 /* --- General --- */
 
@@ -175,9 +176,8 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item {
-  text-transform: uppercase;
-  font-size: 0.8125rem;
-  letter-spacing: 0.0625rem;
+  font-size: 1.0rem;
+  font-family: 'Tajawal', sans-serif;
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -675,8 +675,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 0;
+  margin-top: 0px;
+  margin-bottom: 16px;
   font-size: 3.125rem;
+  font-family: 'Tajawal', sans-serif;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -684,10 +686,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 1.1rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Tajawal', sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
@@ -729,7 +731,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;

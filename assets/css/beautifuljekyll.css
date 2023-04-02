@@ -22,7 +22,7 @@ body {
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
-  text-align: end;
+  text-align: left;
 }
 p {
   line-height: 1.5;

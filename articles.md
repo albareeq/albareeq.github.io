@@ -1,7 +1,7 @@
 ---
 layout: page
 title: مقالات بَرِيق
-# subtitle: مقالات
+subtitle: اللهم انفَعْنِي بما عَلَّمْتَنِي ، وعَلِّمْنِي ما يَنْفَعُنِي ، وزِدْنِي عِلْمًا 
 ---
 
 <br>
@@ -9,4 +9,8 @@ title: مقالات بَرِيق
 <center>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ </center>
 
 <br>
-مجموعة من المقالات
+
+| <img src="assets/img/computerArcheticture.jpg" width=200> | Computer Organization and Architecture |
+| ------ | ------ |
+
+---

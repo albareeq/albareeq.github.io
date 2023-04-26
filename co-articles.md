@@ -12,5 +12,5 @@ subtitle: Computer Organization and Architecture
 
 | _Article Main Topic_        | _Article Title_                        | _Author_        |
 |-----------------------------|----------------------------------------|-----------------|
-| Basic Computer Instructions | A simple understanding of Computer.1 | <img style="float: left; width: 20px; height: 20px; padding: 0px 5px 0px 0px;" src="../assets/img/authors/youssry.png"> Mohamed Youssry |
+| Basic Computer Instructions | A simple understanding of Computer.1 | <img style="float: left; width: 25px; padding: 0px 5px 0px 0px;" src="../assets/img/authors/youssry.png"> Mohamed Youssry |
 

@@ -10,7 +10,7 @@ subtitle: اللهم انفَعْنِي بما عَلَّمْتَنِي ، وع�
 
 <br>
 
-<img style="float: left; padding: 0px 20px 0px 0px; width: 200px" src="assets/img/computerArcheticture.jpg">
+<img style="float: left; padding: 0px 20px 0px 0px; width: 200px" src="../assets/img/computerArcheticture.jpg">
 
 ### Computer Organization and Architecture [Articles](co-articles.md)
 This is the description of Computer Organization and Architecture 
@@ -22,7 +22,7 @@ This is the description of Computer Organization and Architecture
 <hr>
 <br>
 
-<img style="float: left; padding: 0px 20px 0px 0px; width: 200px" src="assets/img/computerArcheticture.jpg">
+<img style="float: left; padding: 0px 20px 0px 0px; width: 200px" src="../assets/img/computerArcheticture.jpg">
 
 ### Computer Organization and Architecture 
 This is the description of Computer Organization and Architecture 

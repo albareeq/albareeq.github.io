@@ -10,8 +10,8 @@ subtitle: اللهم انفَعْنِي بما عَلَّمْتَنِي ، وع�
 
 <br>
 
-<img style="float: left; padding: 20px" src="../albareeq.github.io/assets/img/computerArcheticture.jpg" width=200>
+<img style="float: left; padding: 20px; width: 200px" src="assets/img/computerArcheticture.jpg">
 
 ### Computer Organization and Architecture 
-This is the description of copmuter organization
+This is the description of Computer Organization and Architecture 
 

@@ -10,7 +10,11 @@ subtitle: اللهم انفَعْنِي بما عَلَّمْتَنِي ، وع�
 
 <br>
 
-| <img src="assets/img/computerArcheticture.jpg" width=200> | Computer Organization and Architecture |
-| ------ | ------ |
+> <img src="assets/img/computerArcheticture.jpg" width=200> 
+
+| Computer Organization and Architecture                            |
+|-------------------------------------------------------------------|
+| This is a description for Copmuter Organization and Architercture |
+
 
 ---
